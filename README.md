@@ -26,10 +26,10 @@ To address this, we approach the challenge from a **patch-aware perspective**. W
 **Quantitative Results on Benchmark Datasets**
 
 ![Result1](images/result_table1.png)
-*Comparison with SOTA methods on LEVIR-CD and WHU-CD datasets.*
+*Comparison with SOTA methods on WHU-CD and LEVIR-CD datasets.*
 
 ![Result2](images/result_table2.png)
-*Comparison with SOTA methods on CLCD and DSIFN datasets.*
+*Comparison with SOTA methods on DSIFN-CD and SYSU-CD datasets.*
 
 **Qualitative Visual Comparisons**
 
@@ -40,15 +40,3 @@ To address this, we approach the challenge from a **patch-aware perspective**. W
 
 ![Ablation](images/ablation_vis.png)
 **Visualization of Module Effectiveness.** 
-
-## Citation
-
-If you find this work helpful for your research, please cite our paper:
-
-```bibtex
-@article{your_name2025spacecd,
-  title={SpaceCD: A Spatial-Frequency and Patch-Aware Collaborative Method for Change Detection},
-  author={Your Name and Co-authors},
-  journal={IEEE Transactions on Geoscience and Remote Sensing (Submitted)},
-  year={2025}
-}
